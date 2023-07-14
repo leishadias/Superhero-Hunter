@@ -4,7 +4,7 @@ Name: Leisha Aloma Dias
 
 Linkedin: www.linkedin.com/in/leisha-dias
 
-Hosted Link: 
+Hosted Link: https://leishadias.github.io/Superhero-Hunter/
 
 ## Problem statement
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
@@ -48,29 +48,30 @@ var MD5 = require("crypto-js/md5");
 console.log(MD5("text to hash").toString());
 ```
 ## What's next?
-Linking a profile with an Email address.
+1. Improve speed and optimize performance.
+2. Linking a profile with an Email address.
 
 ## Note
-As the loading of data takes time, while typing in the text box please wait for a few seconds.
+As the loading of data takes time, please wait for a few seconds.
 
 ## Project Demo
 #### Home page
-![Screenshot of the Home Page](images/screenshots/home.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/home.png)
 
 #### Search options
-![Screenshot of the serach options](images/screenshots/search_options.png)
+![Screenshot of the serach options](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/search_options.png)
 
 #### Search Error
-![Screenshot of the Home Page](images/screenshots/error.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/error.png)
 
 #### Featured Characters
-![Screenshot of the Home Page](images/screenshots/featured_char.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/featured_char.png)
 
 #### Information page
-![Screenshot of the Home Page](images/screenshots/info.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/info.png)
 
 #### Navigation in Information page
-![Screenshot of the Home Page](images/screenshots/info_nav.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/info_nav.png)
 
 #### Favourites page
-![Screenshot of the Home Page](images/screenshots/fav.png)
+![Screenshot of the Home Page](https://github.com/leishadias/Superhero-Hunter/blob/master/images/screenshots/fav.png)
